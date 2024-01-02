@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# IDE specific files
+.idea/*
+.vscode/*
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Local configuration file
+.env
+.venv
+
+# Python log files
+*.log
+
+# Ignore the pipenv virtual environment
+Pipfile
+Pipfile.lock
