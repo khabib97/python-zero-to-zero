@@ -1,6 +1,6 @@
 ## Pre-requisites
 
-সিস্টেমে নিম্নলিখিত software ইনস্টল করা আছে তা নিশ্চিত করুন:
+সিস্টেমে নিম্নলিখিত software ইনস্টল করুন, যদি ইনস্টল না থাকে।:
 
 - [python](https://www.python.org/downloads/): পাইথন ইন্সটলার আপনার পিসি তে নামিয়ে নিন, পাইথন 3.6 বা তার উপরের ভার্সন ইন্সটল করুন।
 - [pip](https://pip.pypa.io/en/stable/installation/): পাইথনের জন্য প্যাকেজ ইন্সটলার লাগবে পরবর্তীতে
@@ -10,8 +10,10 @@
 
 1. **Download the project:**
    ```bash
-   git https://github.com/khabib97/python-zero-to-zero.git
+   git clone https://github.com/khabib97/python-zero-to-zero.git
    cd  python-zero-to-zero
+   
+or, download the zip file and extract it.
 
 2. **Enable virtual environment:**
    ```bash

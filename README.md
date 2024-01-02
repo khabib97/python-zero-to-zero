@@ -5,6 +5,8 @@
 আপনি ইংরেজিতে Zero জানেন, এখন কম্পিউটারে 0 লিখতে পারবেন। খুব বেসিক বিষয় নিয়ে লেখা হবে। 
 
 কোন কঠিন কিছু থাকবে না। খুব বেশি কিছুর আশা থাকবে না। দেখা যাক কি হয়।
+
+[ধরে  নিচ্ছি আপনি গিট ব্যবহার করতে পারেন না।  তাই , প্রতিদিনের নতুন কোডের জন্য Installation এর ধাপ ব্যবহার করবেন]
 - [Installation](https://github.com/khabib97/python-zero-to-zero/blob/master/INSTALLATION.md)
 - [Day 1 : লিখুন (print)](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_1.py)
 #### ...( চলবে)
