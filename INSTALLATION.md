@@ -1,9 +1,9 @@
 ## Pre-requisites
 
-সিস্টেমে নিম্নলিখিত software ইনস্টল করুন, যদি ইনস্টল না থাকে।:
+Before you start, make sure you have the following installed and running:
 
-- [python](https://www.python.org/downloads/): পাইথন ইন্সটলার আপনার পিসি তে নামিয়ে নিন, পাইথন 3.6 বা তার উপরের ভার্সন ইন্সটল করুন।
-- [pip](https://pip.pypa.io/en/stable/installation/): পাইথনের জন্য প্যাকেজ ইন্সটলার লাগবে পরবর্তীতে
+- [python](https://www.python.org/downloads/): Python 3.6 or higher
+- [pip](https://pip.pypa.io/en/stable/installation/): Python package manager
 
 
 ## How to run the project
@@ -22,12 +22,12 @@ or, download the zip file and extract it.
    ```
 
 3. **Install dependencies:**
-   কোন প্যাকেজ ইনস্টল করার আগে আপনার ভার্চুয়াল এনভায়রনে অ্যাক্টিভ করা আছে তা নিশ্চিত করুন। এবং নিম্নলিখিত কমান্ডটি চালান। প্রতিদিনের নতুন ফাইল রান করার আগে একবার চালানোর প্রয়োজন হতে পারে।
+   It will install all the dependencies from `requirements.txt` file.
    ```bash
    pip install -r requirements.txt
    ```
 4. **Run the project:**
-   যেকোনো দিনের প্রজেক্ট চালানোর জন্য নিম্নলিখিত কমান্ডটি চালান, যেখানে `*` হচ্ছে দিনের নাম:
+   To run a specific day's code, run the following command, replacing `*` with the day number:
    ```bash
    python3 code/day_*.py
    ```

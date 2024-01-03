@@ -1,13 +1,13 @@
- # প্রোগ্রামিং ZERO টু 0
-নন সি এস ই এর অনেকের টুকটাক প্রোগামিং প্রোয়জন হয়। কোথায় থেকে শুরু করবে, এটা অনেক সময় বুঝতে অসুবিধা হয়। সুপের মতন সহজে হজম হয় এমন কিছু তখন দরকার হয়।
-প্রোগামিং এর সময় কম্পিউটার সাইন্সের বিষয়গুলো যদি দূরে সরিয়ে রাখা হয়, তাহলে কাজ চালানোর মতন কোড লেখা শিখা সহজ হয়। যদিও ভালো কোড লেখার জন্য বিষয়গুলো পরবর্তীতে প্রয়োজন হয়। 
+ # Programming Zero To 0
+Many individuals with non-CS backgrounds often find programming a bit challenging. Figuring out where to start can be time-consuming and confusing. At times like these, something as straightforward and digestible as a super easy solution is needed.
 
-আপনি ইংরেজিতে Zero জানেন, এখন কম্পিউটারে 0 লিখতে পারবেন। খুব বেসিক বিষয় নিয়ে লেখা হবে। 
+When programming, if you keep the subjects of computer science at a distance, learning to write code becomes more approachable. Although these subjects will be needed later for writing good code.
 
-কোন কঠিন কিছু থাকবে না। খুব বেশি কিছুর আশা থাকবে না। দেখা যাক কি হয়।
+If you know the word "Zero" in English, you can now write 0 on the computer. We'll cover very basic topics.
 
-[ধরে  নিচ্ছি আপনি গিট ব্যবহার করতে পারেন না।  তাই , প্রতিদিনের নতুন কোডের জন্য Installation এর ধাপ ব্যবহার করবেন]
+There won't be anything difficult. There won't be many expectations. Let's see what happens.
+
 - [Installation](https://github.com/khabib97/python-zero-to-zero/blob/master/INSTALLATION.md)
-- [Day 1 : লিখুন (print)](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_1.py)
-- [Day 2 : Variable এবং তার ব্যবহার](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_2.py)
-#### ...( চলবে)
+- [Day 1 : print](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_1.py)
+- [Day 2 : Variable](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_2.py)
+#### ...( continue)
