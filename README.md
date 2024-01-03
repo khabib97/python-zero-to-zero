@@ -9,4 +9,5 @@
 [ধরে  নিচ্ছি আপনি গিট ব্যবহার করতে পারেন না।  তাই , প্রতিদিনের নতুন কোডের জন্য Installation এর ধাপ ব্যবহার করবেন]
 - [Installation](https://github.com/khabib97/python-zero-to-zero/blob/master/INSTALLATION.md)
 - [Day 1 : লিখুন (print)](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_1.py)
+- [Day 2 : Variable এবং তার ব্যবহার](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_2.py)
 #### ...( চলবে)
