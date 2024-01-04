@@ -49,8 +49,3 @@ print(person)  # should print {'name': 'John Doe', 'age': 25, 'is_active': True}
 print(person['name'])  # should print John Doe
 print(person['age'])  # should print 25
 print(person['is_active'])  # should print True
-
-# Even you can store Range in a variable
-print("[info]: Range is a collection which is ordered and changeable. Allows duplicate members.")
-person = range(10)
-print(list(person))  # should print [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
