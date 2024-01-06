@@ -8,6 +8,14 @@ Before you start, make sure you have the following installed and running:
 
 ## How to run the project
 
+### Easy way
+1. Go to code folder
+2. Run the following command, replacing `*` with the day number:
+   ```bash
+   python3 day_*.py
+   ```
+### Hard way
+
 1. **Download the project:**
    ```bash
    git clone https://github.com/khabib97/python-zero-to-zero.git
