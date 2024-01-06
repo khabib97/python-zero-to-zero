@@ -12,4 +12,5 @@ There won't be anything difficult. There won't be many expectations. Let's see w
 - [Day 2 : variable](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_2.py)
 - [Day 3 : data type](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_3.py)
 - [Day 4 : basic operators](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_4.py)
+- [Day 5 : condition and If statement](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_5.py)
 #### ...( continue)
