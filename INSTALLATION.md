@@ -9,7 +9,7 @@ Before you start, make sure you have the following installed and running:
 ## How to run the project
 
 ### Easy way
-1. Go to code folder
+1. Download the project and go to code folder or copy the code folder's content and paste it in a .py file.
 2. Run the following command, replacing `*` with the day number:
    ```bash
    python3 day_*.py
