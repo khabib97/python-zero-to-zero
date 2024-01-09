@@ -15,4 +15,5 @@ There won't be anything difficult. There won't be many expectations. Let's see w
 - [Day 5 : condition and If statement](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_5.py)
 - [Day 6 : loop](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_6.py)
 - [Day 7 : function](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_7.py)
+- [Day 8 : list](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_8.py)
 #### ...( continue)
