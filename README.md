@@ -16,4 +16,5 @@ There won't be anything difficult. There won't be many expectations. Let's see w
 - [Day 6 : loop](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_6.py)
 - [Day 7 : function](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_7.py)
 - [Day 8 : list](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_8.py)
+- [Day 9 : string](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_9.py)
 #### ...( continue)
