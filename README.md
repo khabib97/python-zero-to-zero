@@ -7,7 +7,11 @@ If you know the word "Zero" in English, you can now write 0 on the computer. We'
 
 There won't be anything difficult. There won't be many expectations. Let's see what happens.
 
-- [Installation](https://github.com/khabib97/python-zero-to-zero/blob/master/INSTALLATION.md)
+### How to practice?
+- You can use the [Online Python Editor](https://www.online-python.com/) website to practice.
+- Or, [locally install](https://github.com/khabib97/python-zero-to-zero/blob/master/INSTALLATION.md) the python interpreter on your computer and practice.
+
+### Table of Contents
 - [Day 1 : print](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_1.py)
 - [Day 2 : variable](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_2.py)
 - [Day 3 : data type](https://github.com/khabib97/python-zero-to-zero/blob/master/code/day_3.py)
